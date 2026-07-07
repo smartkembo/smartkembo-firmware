@@ -1,0 +1,1 @@
+Firmware SmartKembo SWV
